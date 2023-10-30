@@ -129,9 +129,9 @@ Y si ha salido correctamente de nuevo realizamos un **exit** y reiniciamos mysql
 systemctl restart mysql
 ```
 
-## Crear carpeta `moodledata`
+## Crear carpeta moodledata
 
-Para el correcto funcionamiento de moodle necesitamos crear una carpeta de forma manual a la que debemos llamar `moodledata`, esta puede estar situada donde queramos pero lo recomenendado es crearla en la carpeta `/var/www` con el siguente comando:
+Para el correcto funcionamiento de Moodle necesitamos crear una carpeta de forma manual a la que debemos llamar 'moodledata', esta puede estar situada donde queramos, pero lo recomendado es crearla en la carpeta '/var/www' con el siguiente comando:
 
 ```console
 cd /var/www
