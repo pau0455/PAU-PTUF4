@@ -1,3 +1,3 @@
 # PAU-PTUF4
 
-## [Configuracion Moodle](/configuracion-moodle/README.md)
+## [Instalacion Moodle](/instalacion-moodle/README.md)
