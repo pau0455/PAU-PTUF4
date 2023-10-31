@@ -18,7 +18,9 @@ para cambiar la foto de perfil debemos dirigirnos al mismo apartado `preferencia
 
 ### b) Cambia el nombre de tu lugar (tanto largo como corto) e hiciera que la página principal no muestre nada por los usuarios que no estén autentificats. Esto se puede hacer yendo a la opción Administración del lugar > Primera plana > Parámetros
 
-para cambiar el  nombre del sitio debemos entrar en `Administración del lugar > Parámetros
+para cambiar el  nombre del sitio debemos entrar en `Administración del lugar > Parámetros y cambia el nombre
+
+![1](/img's/5.png)
 
 ### c) Comprueba que la franja horaria de tu lugar sea la correcta. Esto se puede hacer yendo a la opción Administración del lugar > Ubicación > Parámetros.
 
