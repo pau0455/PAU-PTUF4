@@ -8,7 +8,7 @@ Para cambiar el correo electronico, la contraseña y el avatar debemos entrar en
 
 > para poder cambiar la contraseña debemos cumplir los requisitos de seguridad establecidos por el administrador.
 
-[](/img's/1.png)
+[1](/img's/1.png)
 
 ### b) Cambia el nombre de tu lugar (tanto largo como corto) e hiciera que la página principal no muestre nada por los usuarios que no estén autentificats. Esto se puede hacer yendo a la opción Administración del lugar > Primera plana > Parámetros
 
