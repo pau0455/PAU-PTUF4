@@ -51,33 +51,68 @@ Para crear los cursos A y B, ve a `Administración del sitio > Gestiona cursos y
 Para modificar un curso existente, selecciona uno desde el cuadro de Navegación. Puedes cambiar el título de un tema y agregar material, como un documento PDF, a través del botón **Activar edición**.
 
 ![1](/img's/11.png)
----
+
+
 ![1](/img's/12.png)
 
+
 ## 4. Creación de usuarios y alumnos.
+
+
+### a) Crea manualmente un usuario llamado Bob que tiene que usar el método de autenticación manual. Esto se puede hacer desde Administración del lugar > Usuarios > Cuentas > Añade un usuario
 
 Para crear un usuario manualmente, dirígete a `Administración del sitio > Usuarios > Cuentas` y selecciona **Añade un usuario**. Crea un usuario llamado Bob con el método de autenticación manual.
 
 ![1](/img's/15.png)
 
-### a) Crea manualmente un usuario llamado Bob que tiene que usar el método de autenticación manual. Esto se puede hacer desde Administración del lugar > Usuarios > Cuentas > Añade un usuario
-
 ### b) Genera diez alumnos que lo serán de los dos cursos A y B . Usa un archivo CSV para realizar esta creación en bloque. Ve a Administración del lugar > Usuarios > Cuentas > Carga usuarios y sigue los pasos que te marca.
 
+Para generar diez alumnos y asignarlos a los cursos A y B, utiliza un archivo CSV en `Administración del sitio > Usuarios > Cuentas > Carga usuarios`.
+
+![1](/img's/21.png)
+
 ### c) Elimina dos de los diez alumnos creados en el apartado anterior usando la opción Administración del lugar > Usuarios > Acciones con usuarios en bloque
+
+Para eliminar dos de los diez alumnos, usa la opción `Administración del lugar > Usuarios > Acciones con usuarios en bloque`.
+
+![1](/img's/30.png)
 
 ## 5. Ahora matricula estos usuarios en los diferentes cursos.
 
 ### a) Fez que en el curso A no haya posibilitado de inscripción (es decir, que solo se permita el acceso de visitante de forma que el curso sea totalmente público sin control de usuarios -ni alumnos ni profesores-). Por otro lado, hiciera que en el curso B se necesite registro manual de usuarios (es decir, que sea el administrador -tú- quien matricule cada usuario en el curso, ya sea como profesor o como alumno). Todo esto lo puedes hacer desde Administración del curso > Ususaris > Métodos de inscripción. Si no sale algún método de inscripción disponible, tienes que activarlo a: Administración de lugar > Conectores > Autenticación > Gestión de la autenticación
 
+Para matricular usuarios en los cursos, configura el curso A para que sea público y el curso B para que requiera registro manual en `Administración del curso` > `Usuarios` > `Métodos de inscripción`.
+
+![1](/img's/29.png)
+
 ### b) Asigna como profesor del curso B el usuario "Bob" y como alumnos a todos los que haces añadir desde el archivo CSV Todo esto lo puedes hacer yendo a Administración del curso > Usuarios inscritos > Inscribir.
+
+Asigna a Bob como profesor del curso B y matricula a los alumnos en `Administración del curso > Usuarios inscritos > Inscribir`.
+
+![1](/img's/25.png)
 
 ### c) Comprueba que efectivamente, el contenido del curso A (añadido por el administrador del sistema -es decir, tú- esté disponible públicamente y que para acceder al curso B se tenga que iniciar sesión con un usuario registrado (alumno o profesor)
 
+
+
 ## 6. Cambia la apariencia estética de tu lugar. Concretamente, descárgate y activa un tema diferente a los que vienen por defecto y prueba de cambiar también la cabecera y el pie de página del lugar. Esto lo puedes hacer primero yendo a Administración del lugar > Conectores > Instalar complemento y después a Administración del lugar > Apariencia > Temas > Selector de temas Siempre puedes usar el enlace Cambio de rol del menú de la derecha para observar como se vería el lugar siendo alumno, profesor, etc.
+
+ara cambiar la apariencia estética, descarga y activa un tema diferente en `Administración del sitio > Conectores > Instalar complemento y Apariencia > Temas > Selector de temas`. Puedes cambiar la cabecera y el pie de página.
+
+![1](/img's/33.png)
 
 ## 7. Asigna un profesor y matricula alumnos en el curso A.
 
+Asigna un profesor al curso A y matricula a los alumnos en "Administración del curso".
+
+![1](/img's/32.png)
+
 ## 8. Con el profesor añade contenido en el curso A. Añade diferentes tipos de actividades y recursos. Crea una tarea con fecha de entrega abierta que pida la carga de un fichero PDF.
 
+Con el profesor, agrega contenido al curso A, como actividades y recursos. Crea una tarea con una fecha de entrega abierta que requiera la carga de un archivo PDF.
+
+![1](/img's/31.png)
+
 ## 9. Entra con un alumno y comprueba que puedes librar la tarea.
+
+![1](/img's/27.png)
