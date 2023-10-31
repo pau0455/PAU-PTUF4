@@ -18,7 +18,7 @@ para cambiar la foto de perfil debemos dirigirnos al mismo apartado `preferencia
 
 ### b) Cambia el nombre de tu lugar (tanto largo como corto) e hiciera que la página principal no muestre nada por los usuarios que no estén autentificats. Esto se puede hacer yendo a la opción Administración del lugar > Primera plana > Parámetros
 
-
+para cambiar el  nombre del sitio debemos entrar en `Administración del lugar > Parámetros
 
 ### c) Comprueba que la franja horaria de tu lugar sea la correcta. Esto se puede hacer yendo a la opción Administración del lugar > Ubicación > Parámetros.
 
@@ -26,8 +26,14 @@ para cambiar la franja horaria debemos ir a `Administración del sitio > General
 
 ![1](/img's/6.png)
 
+![1](/img's/7.png)
+
 ### d) Cambia el idioma de tu lugar. Esto se puede hacer yendo a la opción Administración del lugar > Idioma > Parámetros y teniendo en cuenta tanto el checkbox Detección automática del idioma como el desplegable Idioma por defecto
 
+Para cambiar el idioma de tu sitio, dirígete a la opción `Administración del sitio > Idioma > Parámetros` y selecciona "Idioma" en el menú desplegable. Asegúrate de configurar tanto la casilla "Detección automática del idioma" como el menú desplegable "Idioma por defecto" según tus preferencias.
 
+![1](/img's/9.png)
 
 ### e) Cambia la política de contraseñas de forma que los usuarios que se creen tengan una contraseña de como mínimo 4 caracteres incluyendo, mayúsculas, minúsculas y cifras. Esto se puede hacer yendo a la opción Administración del lugar > Seguridad >Normativas del lugar.
+
+Para modificar la política de contraseñas y requerir que los usuarios creen contraseñas de al menos 8 caracteres, incluyendo mayúsculas, minúsculas y cifras, accede a la opción `Administración del lugar > Seguridad > Normativas del lugar`. Ajusta las configuraciones de contraseñas de acuerdo con tus preferencias de seguridad.
