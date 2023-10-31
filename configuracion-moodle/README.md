@@ -51,7 +51,7 @@ Para crear los cursos A y B, ve a `Administración del sitio > Gestiona cursos y
 Para modificar un curso existente, selecciona uno desde el cuadro de Navegación. Puedes cambiar el título de un tema y agregar material, como un documento PDF, a través del botón **Activar edición**.
 
 ![1](/img's/11.png)
-
+---
 ![1](/img's/12.png)
 
 ## 4. Creación de usuarios y alumnos.
