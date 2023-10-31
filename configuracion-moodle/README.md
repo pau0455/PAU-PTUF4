@@ -39,3 +39,45 @@ Para cambiar el idioma de tu sitio, dirígete a la opción `Administración del 
 Para modificar la política de contraseñas y requerir que los usuarios creen contraseñas de al menos 8 caracteres, incluyendo mayúsculas, minúsculas y cifras, accede a la opción `Administración del lugar > Seguridad > Normativas del lugar`. Ajusta las configuraciones de contraseñas de acuerdo con tus preferencias de seguridad.
 
 ![1](/img's/9.png)
+
+## 2. Crea los siguientes cursos: un curso denominado A (sin categoría) que esté formado por 3 temas y otro llamado B (también sin categoría) que esté formado por 5 temas. Todo esto lo puedes hacer desde Administración del lugar->Gestiona cursos y categorías o también desde el cuadro Navegación yendo a Cursos > Añade curso
+
+Para crear los cursos A y B, ve a `Administración del sitio > Gestiona cursos y categorías` o usa la opción `Cursos > Añade curso` en el cuadro de Navegación. Crea un curso A con 3 temas y otro curso B con 5 temas.
+
+![1](/img's/10.png)
+
+## 3. Ve a alguno de los cursos creados en su punto anterior (simplemente seleccionándolo dentro del cuadro Navegación) y fes que contenga en alguno del suyos temas algún tipo de material (un documento PDF, por ejemplo), cambia el título de algún tema y, en general, investiga las posibilidades que te da el botón Activar edición en un curso.
+
+Para modificar un curso existente, selecciona uno desde el cuadro de Navegación. Puedes cambiar el título de un tema y agregar material, como un documento PDF, a través del botón **Activar edición**.
+
+![1](/img's/11.png)
+
+![1](/img's/12.png)
+
+## 4. Creación de usuarios y alumnos.
+
+Para crear un usuario manualmente, dirígete a `Administración del sitio > Usuarios > Cuentas` y selecciona **Añade un usuario**. Crea un usuario llamado Bob con el método de autenticación manual.
+
+![1](/img's/15.png)
+
+### a) Crea manualmente un usuario llamado Bob que tiene que usar el método de autenticación manual. Esto se puede hacer desde Administración del lugar > Usuarios > Cuentas > Añade un usuario
+
+### b) Genera diez alumnos que lo serán de los dos cursos A y B . Usa un archivo CSV para realizar esta creación en bloque. Ve a Administración del lugar > Usuarios > Cuentas > Carga usuarios y sigue los pasos que te marca.
+
+### c) Elimina dos de los diez alumnos creados en el apartado anterior usando la opción Administración del lugar > Usuarios > Acciones con usuarios en bloque
+
+## 5. Ahora matricula estos usuarios en los diferentes cursos.
+
+### a) Fez que en el curso A no haya posibilitado de inscripción (es decir, que solo se permita el acceso de visitante de forma que el curso sea totalmente público sin control de usuarios -ni alumnos ni profesores-). Por otro lado, hiciera que en el curso B se necesite registro manual de usuarios (es decir, que sea el administrador -tú- quien matricule cada usuario en el curso, ya sea como profesor o como alumno). Todo esto lo puedes hacer desde Administración del curso > Ususaris > Métodos de inscripción. Si no sale algún método de inscripción disponible, tienes que activarlo a: Administración de lugar > Conectores > Autenticación > Gestión de la autenticación
+
+### b) Asigna como profesor del curso B el usuario "Bob" y como alumnos a todos los que haces añadir desde el archivo CSV Todo esto lo puedes hacer yendo a Administración del curso > Usuarios inscritos > Inscribir.
+
+### c) Comprueba que efectivamente, el contenido del curso A (añadido por el administrador del sistema -es decir, tú- esté disponible públicamente y que para acceder al curso B se tenga que iniciar sesión con un usuario registrado (alumno o profesor)
+
+## 6. Cambia la apariencia estética de tu lugar. Concretamente, descárgate y activa un tema diferente a los que vienen por defecto y prueba de cambiar también la cabecera y el pie de página del lugar. Esto lo puedes hacer primero yendo a Administración del lugar > Conectores > Instalar complemento y después a Administración del lugar > Apariencia > Temas > Selector de temas Siempre puedes usar el enlace Cambio de rol del menú de la derecha para observar como se vería el lugar siendo alumno, profesor, etc.
+
+## 7. Asigna un profesor y matricula alumnos en el curso A.
+
+## 8. Con el profesor añade contenido en el curso A. Añade diferentes tipos de actividades y recursos. Crea una tarea con fecha de entrega abierta que pida la carga de un fichero PDF.
+
+## 9. Entra con un alumno y comprueba que puedes librar la tarea.
