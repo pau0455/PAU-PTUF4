@@ -10,6 +10,12 @@ Para cambiar el correo electronico, la contraseña y el avatar debemos entrar en
 
 ![1](/img's/1.png)
 
+---- 
+
+para cambiar la foto de perfil debemos dirigirnos al mismo apartado `preferencias > editar perfil` y desde nuestra maquina deberemos subir la imagen que utilizaremos como foto de perfil y guardar los cambios.
+
+![1](/img's/3.png)
+
 ### b) Cambia el nombre de tu lugar (tanto largo como corto) e hiciera que la página principal no muestre nada por los usuarios que no estén autentificats. Esto se puede hacer yendo a la opción Administración del lugar > Primera plana > Parámetros
 
 
