@@ -22,7 +22,9 @@ para cambiar la foto de perfil debemos dirigirnos al mismo apartado `preferencia
 
 ### c) Comprueba que la franja horaria de tu lugar sea la correcta. Esto se puede hacer yendo a la opción Administración del lugar > Ubicación > Parámetros.
 
+para cambiar la franja horaria debemos ir a `Administración del sitio > General > Ubicación` y en la **zona horaria por defecto** colocamos la deseada
 
+![1](/img's/6.png)
 
 ### d) Cambia el idioma de tu lugar. Esto se puede hacer yendo a la opción Administración del lugar > Idioma > Parámetros y teniendo en cuenta tanto el checkbox Detección automática del idioma como el desplegable Idioma por defecto
 
