@@ -4,7 +4,11 @@
 
 ### a) Cambia tu dirección de correo electrónico y también tu contraseña por otra. Añádete además un avatar. Todo esto se puede hacer yendo a tu perfil (opción que aparece bajo tu nombre que se ve a la parte superior derecha de la ventana del Moodle) y clicando sobre el enlace Editar (o también yendo a la opción Preferencias, situada al mismo lugar).
 
+Para cambiar el correo electronico, la contraseña y el avatar debemos entrar en el apartado de `preferencias > editar perfil` y cambiar el correo y la contraseña 
 
+> para poder cambiar la contraseña debemos cumplir los requisitos de seguridad establecidos por el administrador.
+
+[](/img's/1.png)
 
 ### b) Cambia el nombre de tu lugar (tanto largo como corto) e hiciera que la página principal no muestre nada por los usuarios que no estén autentificats. Esto se puede hacer yendo a la opción Administración del lugar > Primera plana > Parámetros
 
