@@ -99,7 +99,7 @@ Asigna a Bob como profesor del curso B y matricula a los alumnos en `Administrac
 
 ara cambiar la apariencia estética, descarga y activa un tema diferente en `Administración del sitio > Conectores > Instalar complemento y Apariencia > Temas > Selector de temas`. Puedes cambiar la cabecera y el pie de página.
 
-![1](/img's/33.png)
+![1](/img's/42.png)
 
 ## 7. Asigna un profesor y matricula alumnos en el curso A.
 
