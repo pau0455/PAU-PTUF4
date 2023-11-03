@@ -93,7 +93,7 @@ Asigna a Bob como profesor del curso B y matricula a los alumnos en `Administrac
 
 ### c) Comprueba que efectivamente, el contenido del curso A (añadido por el administrador del sistema -es decir, tú- esté disponible públicamente y que para acceder al curso B se tenga que iniciar sesión con un usuario registrado (alumno o profesor)
 
-
+![1](/img's/41.png)
 
 ## 6. Cambia la apariencia estética de tu lugar. Concretamente, descárgate y activa un tema diferente a los que vienen por defecto y prueba de cambiar también la cabecera y el pie de página del lugar. Esto lo puedes hacer primero yendo a Administración del lugar > Conectores > Instalar complemento y después a Administración del lugar > Apariencia > Temas > Selector de temas Siempre puedes usar el enlace Cambio de rol del menú de la derecha para observar como se vería el lugar siendo alumno, profesor, etc.
 
@@ -122,17 +122,25 @@ Con el profesor, agrega contenido al curso A, como actividades y recursos. Crea 
 
 Para configurar el calificador de manera que dé una nota de la UF automáticamente, debes acceder a la sección `Administración del Curs > Configuración de calificaciones` y configurar los parámetros apropiados. Sin embargo, los detalles específicos de esta configuración pueden variar según la versión y configuración de Moodle que estés utilizando.
 
+![1](/img's/39.png)
+
 ## Crea una insignia i atorga-la a aquest alumne des de Administració del Lloc > Insígnies
 
- Para crear una insignia y otorgarla a un estudiante, debes acceder a `Administración del Lloc > Insígnies`. Sin embargo, los pasos exactos para crear una insignia pueden variar según la versión de Moodle y la configuración del sitio. Deberás seguir los pasos proporcionados en la interfaz de administración de tu instancia de Moodle.
+ Para crear una insignia y otorgarla a un estudiante, debes acceder a `Administración del Lloc > Insígnies`.
+
+![1](/img's/40.png)
 
 ## Crea un qüestionari i afegeix preguntes del banc de preguntes. Crea diferents categories dintre del banc de preguntes i diverses preguntes en cada categoria. A l'hora de crear el qüestionari has de seleccionar les preguntes del banc de preguntes. Respon les preguntes del qüestionari amb un usuari estudiant i mira les qualificacions amb l'usuari professor. 
 
-Para crear un cuestionario en Moodle y agregar preguntas del banco de preguntas, así como organizarlas en diferentes categorías, debes acceder al área de creación de cuestionarios en tu instancia de Moodle. Asegúrate de haber creado previamente un banco de preguntas con las preguntas que deseas utilizar. Luego, al crear el cuestionario, tendrás la opción de seleccionar las preguntas del banco de preguntas y asignarlas a categorías específicas. Para evaluar el cuestionario, puedes responder las preguntas como un usuario estudiante y luego verificar las calificaciones como un usuario profesor. Los pasos específicos pueden variar según la versión de Moodle que estés utilizando y su configuración.
+Para crear un cuestionario en Moodle y agregar preguntas del banco de preguntas, así como organizarlas en diferentes categorías, debes acceder al área de creación de cuestionarios en tu instancia de Moodle. Asegúrate de haber creado previamente un banco de preguntas con las preguntas que deseas utilizar. Luego, al crear el cuestionario, tendrás la opción de seleccionar las preguntas del banco de preguntas y asignarlas a categorías específicas. Para evaluar el cuestionario, puedes responder las preguntas como un usuario estudiante y luego verificar las calificaciones como un usuario profesor.
+
+![1](/img's/38.png)
 
 ## Entra a la zona Administració > Cursos > Còpies i fes una còpia de seguretat del teu curs. Després envia aquest fitxer a un company i que l'importi al seu moodle. Has d'importar al teu moodle un altre curs d'un company.
 
-Para realizar una copia de seguridad de un curso y luego compartirlo con otro usuario, debes acceder a la sección `Administració > Cursos > Còpies` en Moodle. Desde allí, podrás crear una copia de seguridad del curso que deseas compartir. Luego, debes compartir el archivo de copia de seguridad con tu compañero y pedirle que lo importe en su propia instancia de Moodle. El proceso de importación de un curso puede variar dependiendo de la configuración y la versión de Moodle utilizada. Asegúrate de que tu compañero siga los pasos correctos para importar el curso en su Moodle.
+Para realizar una copia de seguridad de un curso y luego compartirlo con otro usuario, debes acceder a la sección `Administració > Cursos > Còpies` en Moodle. Desde allí, podrás crear una copia de seguridad del curso que deseas compartir. Luego, debes compartir el archivo de copia de seguridad con tu compañero y pedirle que lo importe en su propia instancia de Moodle. 
+
+![1](/img's/38.png)
 
 ## Baneja una IP i aplica una política de seguretat. Pots posar la que vulguis però l’hauràs de justificar.
 
@@ -142,8 +150,9 @@ El proceso de banear una IP y aplicar una política de seguridad en Moodle se de
 
 ## Crea 10 usuaris alumnes i un usuari professor posant-li dades. Administració del Lloc > Usuaris > Crear Usuari / Pujar Usuaris (de cop amb un arxiu csv, hi ha un model de csv al final del document).
 
-Para crear 10 usuarios alumnos y un usuario profesor, debes acceder a "`dministración del Lloc > Usuaris > Crear Usuari` o "Pujar Usuaris" si deseas cargarlos desde un archivo CSV. Debes proporcionar los datos requeridos para cada usuario, como nombre, apellido, nombre de usuario, dirección de correo electrónico y contraseña. Luego, puedes matricular a los estudiantes en los cursos A y B utilizando "Administración del Curs > Usuaris > Usuaris Matriculats". Los detalles exactos pueden variar según la configuración de Moodle.
+Para crear 10 usuarios alumnos y un usuario profesor, debes acceder a "`dministración del Lloc > Usuaris > Crear Usuari` o "Pujar Usuaris" si deseas cargarlos desde un archivo CSV. Debes proporcionar los datos requeridos para cada usuario, como nombre, apellido, nombre de usuario, dirección de correo electrónico y contraseña. Luego, puedes matricular a los estudiantes en los cursos A y B utilizando "Administración del Curs > Usuaris > Usuaris Matriculats".
 
-
+![1](/img's/21.png)
 
 ## Assigna al professor a A i B. Matricula els alumnes a A mitjançant Administració del Curs > Usuaris > Usuaris Matriculats i connectat amb un alumne i matricula'l a B amb la contrassenya.
+
